@@ -4,7 +4,7 @@
   <metadata>
     <id>altdrag</id>
     <title>AltDrag</title>
-    <version>1.36</version>
+    <version>1.38</version>
     <authors>Raymond Gillibert</authors>
     <owners>RamonUnch</owners>
     <summary>Easily drag windows when pressing the alt key</summary>
@@ -15,7 +15,7 @@ This behavior already exists in Linux and other operating systems, and AltDrag w
     </description>
     <projectUrl>https://github.com/RamonUnch/AltDrag</projectUrl>
     <projectSourceUrl>https://github.com/RamonUnch/AltDrag</projectSourceUrl>
-    <iconUrl>https://raw.githubusercontent.com/RamonUnch/AltDragChocoPackage/main/AltDrag.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RamonUnch/AltDragChocoPackage/d0ca6170a9373be4a8c846ac30f8ebebcd1389ab/AltDrag.png</iconUrl>
     <packageSourceUrl> https://github.com/RamonUnch/AltDragChocoPackage </packageSourceUrl>
     <tags>altdrag admin drag windows</tags>
     <licenseUrl>https://www.gnu.org/licenses/gpl-3.0.html</licenseUrl>
