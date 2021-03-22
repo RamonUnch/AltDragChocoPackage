@@ -2,7 +2,7 @@
 
 $packageName = 'altdrag'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/RamonUnch/AltDrag/releases/download/1.40/AltDrag1.40-inst.exe'
+$url        = 'https://github.com/RamonUnch/AltDrag/releases/download/1.41/AltDrag1.41-inst.exe'
 
 $packageArgs = @{
   packageName   = $packageName
@@ -10,7 +10,7 @@ $packageArgs = @{
   fileType      = 'exe'
   url           = $url
 
-  checksum      = '95058B927BA16BCDEB403A498483D8F89812990D1DC2B44B950EDC682FE66239'
+  checksum      = 'A26BA1AB408ED4C7F90D33912227FDB0CFFBDA5BB1D7AF5D9928878006ADDFFE'
   checksumType  = 'sha256'
   
   silentArgs   = '/S'

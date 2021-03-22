@@ -1,0 +1,10 @@
+Update version number in altdrag.nuspec
+Update URL and SHA256 in tools\chocolateyInstall.ps1
+
+choco pack
+
+Test:
+choco install AltDrag -s.
+choco uninstall AltDrag -s.
+
+choco push altdrag.1.XX.nupkg --source https://push.chocolatey.org/
