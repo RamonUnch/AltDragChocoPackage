@@ -4,14 +4,16 @@
   <metadata>
     <id>altdrag</id>
     <title>AltDrag</title>
-    <version>1.41</version>
+    <version>1.42</version>
     <authors>Raymond Gillibert</authors>
     <owners>RamonUnch</owners>
     <summary>Easily drag windows when pressing the alt key</summary>
     <description>
+This is a fork by RamonUnch of the original AltDrag made by Stefan Sundin
+
 AltDrag gives you the ability to move and resize your windows in a new way. After you have started AltDrag, you can simply hold down the Alt key and then click and drag any window. Besides just moving windows, you can resize, maximize and close them too. AltDrag simply allows you to do more with less mouse movements.
 
-This behavior already exists in Linux and other operating systems, and AltDrag was made with the mission to copy that behavior to the Windows platform. I believe I have succeeded with this and also added a lot of new intuitive functionality that makes your everyday computing a little easier.    	
+This behavior already exists in Linux and other operating systems, and AltDrag was made with the mission to copy that behavior to the Windows platform.
     </description>
     <projectUrl>https://github.com/RamonUnch/AltDrag</projectUrl>
     <projectSourceUrl>https://github.com/RamonUnch/AltDrag</projectSourceUrl>
