@@ -4,7 +4,7 @@
   <metadata>
     <id>altdrag</id>
     <title>AltDrag</title>
-    <version>1.42</version>
+    <version>1.43</version>
     <authors>Raymond Gillibert</authors>
     <owners>RamonUnch</owners>
     <summary>Easily drag windows when pressing the alt key</summary>
@@ -15,7 +15,7 @@ AltDrag gives you the ability to move and resize your windows in a new way. Afte
 
 This behavior already exists in Linux and other operating systems, and AltDrag was made with the mission to copy that behavior to the Windows platform.
     </description>
-    <projectUrl>https://github.com/RamonUnch/AltDrag</projectUrl>
+    <projectUrl>https://github.com/RamonUnch/AltDrag/wiki</projectUrl>
     <projectSourceUrl>https://github.com/RamonUnch/AltDrag</projectSourceUrl>
     <iconUrl>https://rawcdn.githack.com/RamonUnch/AltDragChocoPackage/d0ca6170a9373be4a8c846ac30f8ebebcd1389ab/AltDrag.png</iconUrl>
     <packageSourceUrl> https://github.com/RamonUnch/AltDragChocoPackage </packageSourceUrl>
